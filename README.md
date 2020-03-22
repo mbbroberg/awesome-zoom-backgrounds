@@ -2,6 +2,8 @@
 
 A collection of backgrounds people are using to make Zoom more entertaining. It's intended to be humorous. Be kind.
 
+![Screen Shot 2020-03-20 at 2 31 19 PM](https://user-images.githubusercontent.com/1744971/77255964-23eea700-6c39-11ea-9e4c-d411f69af279.png)
+
 ## Instructions 
 
 @daxmc99 was kind enough to [write instructions here](/live_backgrounds/big_boat_energy.md).

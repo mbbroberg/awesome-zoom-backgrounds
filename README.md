@@ -6,7 +6,7 @@ A collection of backgrounds people are using to make Zoom more entertaining. It'
 
 ## Instructions 
 
-@daxmc99 was kind enough to [write instructions here](/live_backgrounds/big_boat_energy.md).
+@daxmc99 was kind enough to [write instructions here](/live_backgrounds/README.md).
 
 ## Inspiration
 

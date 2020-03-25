@@ -11,7 +11,7 @@ A collection of backgrounds people are using to make Zoom more entertaining. It'
 ## Inspiration
 
 * The SIG Hot Sauce on [Mar 20, 2020](https://twitter.com/stephenaugustus/status/1241070063760924675).
-* The one and only Nathen Harvey and his [call backgrounds](https://github.com/nathenharvey/conference-call-backgrounds).
+* The one and only Nathan Harvey and his [call backgrounds](https://github.com/nathenharvey/conference-call-backgrounds).
 
 ## License 
 

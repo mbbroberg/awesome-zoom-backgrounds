@@ -6,7 +6,8 @@ A collection of backgrounds people are using to make Zoom more entertaining. It'
 
 ## Instructions 
 
-@daxmc99 was kind enough to [write instructions here](/live_backgrounds/README.md).
+* @daxmc99 was kind enough to [write instructions here](/live_backgrounds/README.md).
+* There are also instructions on this (way better) site: https://zoomerbackgrounds.com/how-to
 
 ## Inspiration
 

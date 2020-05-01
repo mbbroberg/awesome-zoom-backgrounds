@@ -47,13 +47,15 @@ Once those are installed, you can split up a video that you've downloaded with `
 ```
 cd awesome-zoom-backgrounds/live_backgrounds
 youtube-dl -f 134 'https://www.youtube.com/watch?v=3rDjPLvOShM' -o 'train.mp4'
-pwsh Split-VideoForZoom.ps1 -VideoPath train.mp4 -OutputPath split.mp4
+pwsh Split-VideoForZoom.ps1 -VideoPath train.mp4 -OutputPath split.mp4 #Mac, Linux, Windows with PowerShell Core installed
+powershell Split-VideoForZoom.ps1 -VideoPath train.mp4 -OutputPath split.mp4 #Windows
+
 ```
 
 This will, by default, split the video into enough 15 second chunks to make a 10 minute video.
 The length of clips and the total length of video can also be specified.
 
 ```
-./Split-VideoForZoom.ps1 -VideoPath train.mp4 -OutputPath split.mp4 -VideoLength 5 -ClipTime 30
+pwsh Split-VideoForZoom.ps1 -VideoPath train.mp4 -OutputPath split.mp4 -VideoLength 5 -ClipTime 30
 ```
 This will split the same video into enough 30 second clips to make a 5 minute video (so 10 clips total)

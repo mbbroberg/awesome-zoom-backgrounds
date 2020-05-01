@@ -47,7 +47,7 @@ Once those are installed, you can split up a video that you've downloaded with `
 ```
 cd awesome-zoom-backgrounds/live_backgrounds
 youtube-dl -f 134 'https://www.youtube.com/watch?v=3rDjPLvOShM' -o 'train.mp4'
-./Split-VideoForZoom.ps1 -VideoPath train.mp4 -OutputPath split.mp4
+pwsh Split-VideoForZoom.ps1 -VideoPath train.mp4 -OutputPath split.mp4
 ```
 
 This will, by default, split the video into enough 15 second chunks to make a 10 minute video.
